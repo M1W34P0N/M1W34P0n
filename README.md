@@ -49,6 +49,8 @@ Este repositorio está dedicado a herramientas, scripts y recursos para pruebas 
 - Ataques a protocolos (MQTT, CoAP)
 - Explotación de vulnerabilidades específicas de IoT
 
+
+<!--
 ---
 
 ## 🚀 Cómo usar este repositorio
@@ -61,3 +63,5 @@ cd tu-repo
 # Ejecutar scripts según el objetivo
 ./redteam/ejemplo.sh
 python3 webpentest/scanner.py
+
+-->
